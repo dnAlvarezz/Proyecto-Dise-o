@@ -1,3 +1,4 @@
-"# Proyecto-Dise-o" 
-"# Proyecto-Dise-o" 
-"# Proyecto-Dise-o" 
+Daniel Álvarez
+Bárbara Céspedes
+Antonia Solís
+
