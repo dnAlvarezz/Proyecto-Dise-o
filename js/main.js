@@ -7,7 +7,7 @@ function startGame(level) {
         feedback.innerText = "Has seleccionado el Nivel Avanzado. ¡Prepárate para multiplicaciones y divisiones!";
     }
 
-    // Simulación de inicio de juego (se puede expandir en el futuro)
+    // Simulación de inicio de juego (se puede expandir en el futuroS) 
     setTimeout(() => {
         feedback.innerText += "\n¡Vamos a empezar!";
     }, 1000);
